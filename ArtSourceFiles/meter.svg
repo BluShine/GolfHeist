@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="meter.svg"
+   inkscape:export-filename="C:\Users\Mark\Documents\GitHub\GolfHeist\Assets\art\meter.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4155">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop4157" />
+      <stop
+         style="stop-color:#00ff00;stop-opacity:0;"
+         offset="1"
+         id="stop4159" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="175.56652"
+     inkscape:cy="205.06488"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="654"
+     inkscape:window-height="652"
+     inkscape:window-x="11"
+     inkscape:window-y="19"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="16px"
+       spacingy="16px"
+       empcolor="#7c00ff"
+       empopacity="0.25098039"
+       color="#00b3ff"
+       opacity="0.1254902"
+       dotted="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Layer#1"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <rect
+       style="fill:#cedee2;fill-opacity:1;stroke:none"
+       id="rect4167"
+       width="512"
+       height="128"
+       x="0"
+       y="192" />
+    <rect
+       style="fill:#f9fdff;fill-opacity:1;stroke:none"
+       id="rect4169"
+       width="480"
+       height="64"
+       x="16"
+       y="224" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer"
+     style="display:inline">
+    <rect
+       style="fill:#1f8f2c;fill-opacity:1;stroke:none"
+       id="rect4164"
+       width="128"
+       height="512"
+       x="192"
+       y="0"
+       inkscape:export-filename="C:\Users\Mark\Documents\GitHub\GolfHeist\Assets\art\bar.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-540.36232)"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#cdcdcd;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3807"
+       sodipodi:cx="256"
+       sodipodi:cy="256"
+       sodipodi:rx="64"
+       sodipodi:ry="64"
+       d="m 320,256 a 64,64 0 1 1 -128,0 64,64 0 1 1 128,0 z"
+       transform="translate(0,668.36232)" />
+    <path
+       style="fill:none;stroke:#ff1e1e;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 192,384 128,0"
+       id="path3809"
+       inkscape:connector-curvature="0"
+       transform="translate(0,540.36232)" />
+    <path
+       style="fill:none;stroke:#cdcdcd;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 192,1020.3623 128,0"
+       id="path3811"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#cdcdcd;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 192,572.36232 128,0"
+       id="path3811-4"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#cdcdcd;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.99607843;stroke-dasharray:none"
+       d="m 192,604.36232 128,0"
+       id="path3831-51"
+       inkscape:connector-curvature="0"
+       inkscape:tile-cx="256"
+       inkscape:tile-cy="64"
+       inkscape:tile-w="128"
+       inkscape:tile-h="0"
+       inkscape:tile-x0="192"
+       inkscape:tile-y0="64" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3831-51"
+       id="use4134"
+       transform="translate(0,32)"
+       width="512"
+       height="512" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4134"
+       id="use4136"
+       transform="translate(0,32)"
+       width="512"
+       height="512" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4136"
+       id="use4138"
+       transform="translate(0,32)"
+       width="512"
+       height="512" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4138"
+       id="use4140"
+       transform="translate(0,32)"
+       width="512"
+       height="512" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4140"
+       id="use4142"
+       transform="translate(0,32)"
+       width="512"
+       height="512" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4142"
+       id="use4144"
+       transform="translate(0,32)"
+       width="512"
+       height="512" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4144"
+       id="use4146"
+       transform="translate(0,32)"
+       width="512"
+       height="512" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4146"
+       id="use4148"
+       transform="translate(0,32)"
+       width="512"
+       height="512" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4148"
+       id="use4150"
+       transform="translate(0,128)"
+       width="512"
+       height="512" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4148"
+       id="use4171"
+       transform="translate(0,32)"
+       width="512"
+       height="512" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4171"
+       id="use4173"
+       transform="translate(0,64)"
+       width="512"
+       height="512" />
+  </g>
+</svg>
