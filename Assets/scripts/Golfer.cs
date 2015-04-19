@@ -6,7 +6,9 @@ public class Golfer : MonoBehaviour {
     public RectTransform bar;
     public RectTransform cursor;
     public Camera camera;
-    private Vector3 cameraOffset = new Vector3(0, 0, 0);
+    public float cameraDistance = 50;
+    public float cameraAngle = 30;
+    public float cameraRotationOffset = 10;
 
     //shooting
     static string SHOOTBUTTON = "Jump";
@@ -22,7 +24,6 @@ public class Golfer : MonoBehaviour {
     public float verticalAngle = 45;
     public float aimAngle = 0;
     public float aimSpeed = 180;
-
 
     public float rollingResistance = 500;
 
@@ -41,14 +42,16 @@ public class Golfer : MonoBehaviour {
 	void Start () {
         body = GetComponent<Rigidbody>();
         line = GetComponent<LineRenderer>();
-        cameraOffset = camera.transform.position - transform.position;
         body.maxAngularVelocity = 1000000;
 	}
 	
 	// Update is called once per frame
 	void Update () {
         //move the camera
-        camera.transform.position = transform.position + cameraOffset;
+        Vector3 cameraVector = Quaternion.AngleAxis(-cameraAngle, Vector3.right) * Vector3.forward;
+        cameraVector = Quaternion.AngleAxis(180 + aimAngle + cameraRotationOffset, Vector3.up) * cameraVector * cameraDistance;
+        camera.transform.position = transform.position + cameraVector;
+        camera.transform.LookAt(transform.position);
 
         //draw the line
         line.material.mainTextureOffset = new Vector2(
@@ -127,7 +130,7 @@ public class Golfer : MonoBehaviour {
                 cycleTimer += Time.fixedDeltaTime;
                 if (cycleTimer >= cycleSpeed * 2)
                 {
-                    state = GolfState.ready;
+                    cycleTimer = 0;
                 }
                 //shooting
                 if (Input.GetButtonDown(SHOOTBUTTON))
