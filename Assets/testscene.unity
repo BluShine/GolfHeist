@@ -583,7 +583,10 @@ MonoBehaviour:
   cursor: {fileID: 2057054974}
   camera: {fileID: 2103568495}
   shotPower: 100
-  shotVector: {x: .540000021, y: 1, z: .49000001}
+  cycleSpeed: 1
+  verticalAngle: 45
+  aimAngle: 45
+  aimSpeed: 1
   rollingResistance: 500
 --- !u!120 &1673285925
 LineRenderer:
@@ -821,8 +824,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2103568491}
-  m_LocalRotation: {x: -.275155902, y: .0708720982, z: -.0203437563, w: -.958567977}
-  m_LocalPosition: {x: 10.4036522, y: 11.5521441, z: 7.46393013}
+  m_LocalRotation: {x: -.14242214, y: -.244906887, z: .0363964289, w: -.958338082}
+  m_LocalPosition: {x: -10.4388723, y: 35.4150238, z: -30.5801067}
   m_LocalScale: {x: .209999979, y: .209999993, z: .209999979}
   m_Children: []
   m_Father: {fileID: 0}
