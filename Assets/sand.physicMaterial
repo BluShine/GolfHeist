@@ -5,11 +5,11 @@ PhysicMaterial:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: golfball
-  dynamicFriction: .00999999978
-  staticFriction: .00999999978
-  bounciness: .899999976
-  frictionCombine: 3
+  m_Name: sand
+  dynamicFriction: 2
+  staticFriction: 2
+  bounciness: .00999999978
+  frictionCombine: 0
   bounceCombine: 0
   frictionDirection2: {x: 0, y: 0, z: 0}
   dynamicFriction2: 0
